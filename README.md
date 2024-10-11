@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,21,21,21,21,22"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,22,22,22,22,23"/>
 
 <h1 align="center">Olá! Sejam bem vindos ao meu Github!</h1>
 
